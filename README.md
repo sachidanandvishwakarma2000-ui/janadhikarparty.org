@@ -1,4 +1,4 @@
-# https://.github.io/janadhikarektaparty.org
+# https://sachidanandvishwakarma 2000-ui.github.io/janadhikarektaparty.org
 Official website of Jan Adhikar Ekta. Dedicated to public service, equality and social awareness.
 import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button"; import { motion } from "framer-motion";
 
