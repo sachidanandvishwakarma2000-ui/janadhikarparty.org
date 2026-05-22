@@ -1,4 +1,4 @@
-# janadhikarjantaparty.org
+# janadhikarektaparty.org
 Official website of Jan Adhikar Ekta. Dedicated to public service, equality and social awareness.
 import { Card, CardContent } from "@/components/ui/card"; import { Button } from "@/components/ui/button"; import { motion } from "framer-motion";
 
